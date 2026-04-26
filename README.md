@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devang Jain</h1>
-<h3 align="center">I'm a self-taught developer passionate about learning and building impactful projects. I enjoy working with Javascript, ReactJS, Vite, and exploring other modern web development tools and technologies. I'm always eager to learn, collaborate, and create solutions that make a difference.</h3>
+<h3 align="center">I'm a full-stack engineer building AI systems with FastAPI, LangGraph, and React/TypeScript. 
+I work with PostgreSQL, AWS Bedrock, and async Python to create scalable backend solutions. I'm always eager to learn, collaborate, and create solutions that make a difference.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
